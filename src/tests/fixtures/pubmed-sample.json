@@ -1,0 +1,21 @@
+{
+  "pmid": "12345678",
+  "title": "COVID-19 vaccine effectiveness among healthcare workers during the Omicron period in the country of Georgia, January - June 2022.",
+  "abstract": "This is a sample abstract for the fixture.",
+  "authors": [
+    "Ward Caleb L",
+    "Rojas Castro Madelyn Yiseth",
+    "Chakhunashvili Giorgi",
+    "Chitadze Nazibrola",
+    "Finci Iris",
+    "Pebody Richard",
+    "Kissling Esther",
+    "Katz Mark A",
+    "Sanodze Lia"
+  ],
+  "journal": "PloS one",
+  "publicationDate": "2025-01-01",
+  "doi": "10.1371/journal.pone.1234567",
+  "keywords": ["COVID-19", "vaccine", "healthcare workers", "Omicron"],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/12345678/"
+}
